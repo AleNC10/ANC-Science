@@ -19,7 +19,6 @@ Existen alrededor de 700 diferentes lenguajes de programación pero los más imp
 En el siguiente recuadro te mostraré un ejmeplo de código que realiza la misma tarea pero en los tres lenguajes de programación más importantes que se mencionó en el párrafo anterior.
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Supongamos que queremos obtener el promedio de calificaciones de un alumno:
