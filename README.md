@@ -23,7 +23,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Supongamos que queremos obtener el promedio de calificaciones de un alumno:
 
 Java
-
 ArrayList Notes = new ArrayList();
  Notes.add(7);
  Notes.add(9);
@@ -47,7 +46,6 @@ double promedioDeArreglo(int arreglo[], int cantidadDeElementos){
 
 
 Python
-
 Name = Jake
 Notes = (7, 9, 8, 10, 8)
 Promedio = (sum(Notes))/(float(len(Notes)))
