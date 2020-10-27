@@ -1,6 +1,6 @@
 ## Bienvenido a ANC-Science 
 
-En este aspacio podrás interactuar con herramientras de programación basadas en python que tienen aplicaiones académicas como por ejemplo: calcular el volumen
+En este espacio podrás interactuar con herramientras de programación basadas en python que tienen aplicaiones académicas como por ejemplo: calcular el volumen
 de un comprimido biconvexo usando solamente tres parámetros.
 
 También podrás visualizar todo el  código y marco de ejecución en [google colaboratory](https://colab.research.google.com/) en caso de que conozcas más sobre programación.
