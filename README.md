@@ -13,7 +13,9 @@ Recuerda "LA CIENCIA ES DE QUIEN LA TRABAJA" A. Einstein
 
 ### Lenguaje de programación
 Todo lo que es digital o "por computadora" funciona mediante uno o más códigos de instrucciones llamado lenguaje de programación. Estos códigos le dicen a una computadora o a un dispositivo (hardware) lo que debe hacer. "seguramente te estás imaginando un robot" y efectivamente, si nos vamos a niveles más elevados de tecnología, las naves espaciales, los robots, los satélites, etc., funcionan gracias a los lenguajes de programación.
+
 Existen alrededor de 700 diferentes lenguajes de programación pero los más importantes solamente son tres: Java, C++ y Python. "Posiblemente hayas escuchado nombrar alguno de ellos"
+
 En el siguiente recuadro te mostraré un ejmeplo de código que realiza la misma tarea pero en los tres lenguajes de programación más importantes que se mencionó en el párrafo anterior.
 
 
